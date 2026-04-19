@@ -1,0 +1,9 @@
+.github
+.vscode
+src
+tsconfig.json
+*.js.map
+*.tgz
+.env
+assets
+best-practices.md
